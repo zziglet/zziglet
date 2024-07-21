@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <h2>2023.6 : 웹프로그래밍 프로젝트</h2>
   <p>닌텐도 사의 커비를 주제로 벽돌깨기 게임 구현(HTML/CSS, jQuery)</p>
 </details>
+  <br>
 <details>
 <summary>
   😄 non-Project
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
   <h2>2022.6 - 2023.6 : 소리나래 회장</h2>
   <p>건국대학교 중앙동아리인 소리나래의 회장으로 활동</p>
 </details>
+  <br>
 <details>
 <summary>
   🤔 Study
@@ -50,6 +52,6 @@ Here are some ideas to get you started:
   <p>졸업합시다!</p>
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zziglet)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zziglet)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
