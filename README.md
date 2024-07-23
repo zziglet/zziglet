@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1>zziglet's Github</h1>
 <p>안녕하세요! 저는 FE 개발자를 준비하고 있는 컴공 대학생입니다😄</p>
 <br>
-<br>
 <h2>🔭 Project</h2>
   <h3>2024.7 : 코멘토 직무부트캠프 참여</h3>
   <p>[IT 8가지 직무 기초 체험 ...] 부트캠프에 참여</p>
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 <h2>⚡Stack</h2>
 <p>프로젝트와 스터디로 주로 사용해본 언어들입니다.</p>
-
+<br>
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
