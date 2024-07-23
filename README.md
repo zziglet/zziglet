@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <h2>AWS</h2>
   <p>AWS 클라우드와 컴퓨터 네트워크에 대해 공부 중</p>
   <h2>Algorithm</h2>
-  <script>![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjw04033&theme=warm)</script>
+  <img src="http://mazandi.herokuapp.com/api?handle=jjw04033&theme=warm"/>
   <p>코딩테스트를 준비하기 위해 백준 문제를 풀며 알고리즘 공부 </p>
   <h2>TOEIC</h2>
   <p>졸업합시다!</p>
