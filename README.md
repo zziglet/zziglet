@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 <h1>zziglet's Github</h1>
 <p>안녕하세요! 저는 FE 개발자를 준비하고 있는 컴공 대학생입니다😄</p>
-
+<br>
+<br>
 <h2>🔭 Project</h2>
   <h3>2024.7 : 코멘토 직무부트캠프 참여</h3>
   <p>[IT 8가지 직무 기초 체험 ...] 부트캠프에 참여</p>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 
   <br>
 
-<h2>🤔 Study<h2>
+<h2>🤔 Study</h2>
   <h3>React</h3>
   <p>FE 개발자가 되기 위해 React, Vue.js에 대해 현재 공부 중 -> 토이프로젝트 기획 중</p>
   <h3>AWS</h3>
