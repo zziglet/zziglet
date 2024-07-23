@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <h2>TOEIC</h2>
   <p>졸업합시다!</p>
 </details>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zziglet&show_icons=true&theme=dracula)
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
