@@ -54,9 +54,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zziglet&show_icons=true&theme=dracula)
 <br>
-<summary>
-  ⚡Stack
-</summary>
+<h2>⚡Stack</h2>
 <p>프로젝트와 스터디로 주로 사용해본 언어들입니다.</p>
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
