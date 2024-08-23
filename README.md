@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <p>안녕하세요! 저는 FE 개발자를 준비하고 있는 컴공 대학생입니다😄</p>
 <br>
 <h2>🔭 Project</h2>
+  <h3>2024.8 : wandu-gaplog 프로젝트</h3>
+  <p> (개발 진행 중) </p>
+  <p>[IT 8가지 직무 기초 체험 ...] 부트캠프에 참여</p>
   <h3>2024.7 : 코멘토 직무부트캠프 참여</h3>
   <p>[IT 8가지 직무 기초 체험 ...] 부트캠프에 참여</p>
   <h3>2024.6 : 모바일프로그래밍 프로젝트</h3>
@@ -36,7 +39,7 @@ Here are some ideas to get you started:
 
 <h2>🤔 Study</h2>
   <h3>React</h3>
-  <p>FE 개발자가 되기 위해 React, Vue.js에 대해 현재 공부 중 -> 토이프로젝트 기획 중</p>
+  <p>FE 개발자가 되기 위해 React, Vue.js에 대해 현재 공부 중</p>
   <h3>AWS</h3>
   <p>AWS 클라우드와 컴퓨터 네트워크에 대해 공부 중</p>
   <h3>Algorithm</h3>
