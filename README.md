@@ -6,25 +6,6 @@ Here are some ideas to get you started:
 
 - <h2>⚡Stack</h2>
 <p>프로젝트와 스터디로 주로 사용해본 언어들입니다.</p>
-
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-0095D5?&style=for-the-badge&logo=C&logoColor=white)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>zziglet's Github</h1>
-<p>안녕하세요! 저는 FE 개발자를 준비하고 있는 컴공 대학생입니다😄</p>
-<br>
 <h2>🔭 Project</h2>
   <h3>2024.8 : wandu-gaplog 프로젝트</h3>
   <p> (개발 진행 중) </p>
@@ -54,6 +35,25 @@ Here are some ideas to get you started:
   <p>코딩테스트를 준비하기 위해 백준 문제를 풀며 알고리즘 공부 </p>
   <h3>TOEIC</h3>
   <p>졸업합시다!</p>
+
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1>zziglet's Github</h1>
+<p>안녕하세요! 저는 FE 개발자를 준비하고 있는 컴공 대학생입니다😄</p>
+<br>
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-0095D5?&style=for-the-badge&logo=C&logoColor=white)
 </details>
 
 <br>
