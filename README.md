@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>zziglet's Github</h1>
+<h1>zziglet</h1>
 <p>😄</p>
 <br>
 
